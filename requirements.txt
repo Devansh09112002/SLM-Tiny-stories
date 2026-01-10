@@ -1,0 +1,16 @@
+torch
+pytorch-lightning
+transformers
+datasets
+tokenizers
+google-generativeai
+openai
+bert-score
+rouge-score
+sacrebleu
+nltk
+seaborn
+matplotlib
+python-dotenv
+wandb
+tqdm
